@@ -1,0 +1,16 @@
+# Virtual environment
+venv/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# FastAPI config files (uncomment if needed)
+# .env
+
+# IDE related (uncomment based on your IDE)
+.vscode/
+
+# Miscellaneous
+.DS_Store
